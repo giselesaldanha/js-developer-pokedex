@@ -1,10 +1,10 @@
-# 🏆 Pokedex
+# 🏆 POKEDEX
 
 <p align="center">
-  <img src="./assets/Pokedex.jpg" alt="Imagem de Capa do Projeto">
+  <img src="./assets/Pokedex.jpg" alt="Imagem de Capa do Projeto" width="33%">
 </p>
 
----
+
 
 ## 📜 Sobre este Documento
 
@@ -83,5 +83,7 @@ Agradeço à Microsoft e à [DIO](https://web.dio.me/home) pela oportunidade de 
 ---
 
 🚀 **Desenvolvido por** [Gisele Saldanha](https://www.linkedin.com/in/gisele-saldanha-6b68031/).
+
+
 
 
