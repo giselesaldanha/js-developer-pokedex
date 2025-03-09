@@ -1,7 +1,7 @@
 # 🏆 POKEDEX
 
 <p align="center">
-  <img src="./assets/Pokedex.jpg" alt="Imagem de Capa do Projeto" width="33%">
+  <img src="./assets/Pokedex.jpg" alt="Imagem de Capa do Projeto" width="50%">
 </p>
 
 
